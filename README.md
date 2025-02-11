@@ -6,8 +6,13 @@ We treat a scan as a collection of recording fields: rectangular planes at a giv
 We plan to support new versions of ScanImage scans as our lab starts using them. If you would like us to add support for an older (or different) version of ScanImage, send us a small sample scan.
 
 ### Installation
+For this version:
 ```shell
-pip3 install git+https://github.com/atlab/scanreader.git
+pip3 install git+https://github.com/ef-lab/scanreader.git 
+```
+or select the original
+```shell
+pip3 install git+https://github.com/atlab/scanreader.git 
 ```
 
 ### Usage
